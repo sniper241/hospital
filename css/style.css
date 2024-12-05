@@ -1,0 +1,54 @@
+*{
+    font-family: 'janna lt';
+    box-sizing: border-box;
+    direction: ltr;
+    border: 0;
+}
+.logo{
+    text-align: center;
+    margin: 40px 0;
+}
+.logo img{
+    width: 100px;
+}
+.logo h2{
+    font-size: 30px;
+    font-weight: 400px;
+    color: #00a9b0;
+}
+.book{
+
+    text-align: center;
+}
+.book p{
+    font-size: 25px;
+}
+.book input{
+    width: 50%;
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: antiquewhite  ;
+}
+.book input[type="submit"]{
+    background-color:#00a9b0 ;
+    font-size: 18px;
+    color: #fff;
+    border: none;
+}
+table{
+    width: 100%;
+    font-size: 20px;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+
+th{
+    background-color: #00a9b0;
+    color: white;
+    padding: 5px 0;
+}
+
+
+
+
